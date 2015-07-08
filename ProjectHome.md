@@ -1,0 +1,1 @@
+This is a shop script which don't use mySQL for DB, is using flat file .txt. Authentification module is available. If you are planning to build one small shop online, now you have the chance, this script will be perfect for you. You can add, edit or delete easily your products in the shop. To install this php shop, you need a minimum knowledge of php programming.
